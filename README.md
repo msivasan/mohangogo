@@ -1,5 +1,5 @@
 
-Tools used for AUtomation:
+Tools used for Automation:
 
 Cucumber (BDD), Selenium Webdriver, Chrome, Chrome Tools, and Java.
 
@@ -12,6 +12,8 @@ Git
 How to Run 
 
 From Terminal, execute 'mvn clean test'
+
+
 
 What this Project does:
 
