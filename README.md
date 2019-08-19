@@ -3,15 +3,14 @@ Tools used for Automation:
 
 Cucumber (BDD), Selenium Webdriver, Chrome, Chrome Tools, and Java.
 
-Tools to Run :
+Tools to required to Run :
 
 Java 8
 Maven 3
 Git
 
-How to Run 
 
-From Terminal, execute 'mvn clean test'
+How to Run : From Terminal, execute 'mvn clean test'
 
 
 
